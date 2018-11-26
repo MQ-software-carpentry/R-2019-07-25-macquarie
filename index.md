@@ -347,6 +347,43 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+<div id="spreadsheets"> {% comment %} Start of 'Spreadsheets' section. {% endcomment %}
+<h3>Data organization in spreadsheets</h3>
+<p>
+For this lesson you will need a spreadsheet editor. You may have Microsoft Excel, LibreOffice or a
+similar software installed already. If so, you do not need to install anything else for this lesson.
+If you don't have a spreadsheet software installed yet, follow the instructions for your operating
+system below.
+</p>
+  <div class="row">
+    <div class="col-md-4">
+      <h4 id="spreadsheets-windows">Windows</h4>
+      <ol>
+        <li>Download LibreOffice from <a href="https://www.libreoffice.org/download/download/">https://www.libreoffice.org/download/download/</a></li>
+        <li>Locate the downloded file and launch the installer.</li>
+        <li>Follow the on-screen prompts to complete the installation.</li>
+      </ol>
+    </div>
+    <div class="col-md-4">
+      <h4 id="spreadsheets-mac">Mac</h4>
+      <ol>
+        <li>Download LibreOffice from <a href="https://www.libreoffice.org/download/download/">https://www.libreoffice.org/download/download/</a></li>
+        <li>Locate the downloded file and launch the installer.</li>
+        <li>Follow the on-screen prompts to complete the installation.</li>
+      </ol>
+    </div>
+    <div class="col-md-4">
+      <h4 id="spreadsheets-linux">Linux</h4>
+      <ol>
+        <li>Download LibreOffice from <a href="https://www.libreoffice.org/download/download/">https://www.libreoffice.org/download/download/</a></li>
+        <li>Locate the downloded file and launch the installer.</li>
+        <li>Follow the on-screen prompts to complete the installation.</li>
+      </ol>
+    </div>
+  </div>
+
+</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
