@@ -478,20 +478,20 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
       <h4 id="git-macosx">macOS</h4>	
       <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">Video Tutorial</a>	
       <ol>
-      <li>	
-        <strong>For OS X 10.9 and higher</strong>, install Git for Mac	
-        by downloading and running the most recent "mavericks" installer from	
-        <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.	
-        Because this installer is not signed by the developer, you may have to	
-        right click (control click) on the .pkg file, click Open, and click	
-        Open on the pop up window. 	
-        After installing Git, there will not be anything in your <code>/Applications</code> folder,	
-        as Git is a command line program.	
-        <strong>For older versions of OS X (10.5-10.8)</strong> use the	
-        most recent available installer labelled "snow-leopard"	
-        <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.	
-      </li>
-      <li>
+        <li>	
+          <strong>For OS X 10.9 and higher</strong>, install Git for Mac	
+          by downloading and running the most recent "mavericks" installer from	
+          <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.	
+          Because this installer is not signed by the developer, you may have to	
+          right click (control click) on the .pkg file, click Open, and click	
+          Open on the pop up window. 	
+          After installing Git, there will not be anything in your <code>/Applications</code> folder,	
+          as Git is a command line program.	
+          <strong>For older versions of OS X (10.5-10.8)</strong> use the	
+          most recent available installer labelled "snow-leopard"	
+          <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.	
+        </li>
+        <li>
           To ensure that you can use git with RStudio:
           <ol>
             <li>Open RStudio.</li>
@@ -503,6 +503,7 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
             <li>Click "Open".</li>
             <li>Click "OK".</li>
           </ol>
+        </li>
       </ol>	
     </div>	
     <div class="col-md-4">	
