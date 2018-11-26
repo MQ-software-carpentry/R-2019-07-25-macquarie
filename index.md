@@ -301,7 +301,9 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
     <a href="https://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>.
+    <a href="https://www.rstudio.com/">RStudio</a>. The R lessons in this
+    workshop rely on the use of Git. Please follow the instructions <a href="#git">below</a>
+    to install the Git software and connect it to RStudio.
   </p>
 
   <div class="row">
@@ -492,10 +494,27 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
     <div class="col-md-4">	
       <h4 id="git-linux">Linux</h4>	
       <p>	
-        If Git is not already available on your machine you can try to	
-        install it via your distro's package manager. For Debian/Ubuntu run	
-        <code>sudo apt-get install git</code> and for Fedora run	
-        <code>sudo dnf install git</code>.	
+      <ol>
+        <li>
+          If Git is not already available on your machine you can try to	
+          install it via your distro's package manager. For Debian/Ubuntu run	
+          <code>sudo apt-get install git</code> and for Fedora run	
+          <code>sudo dnf install git</code>.
+        </li>
+        <li>
+          To ensure that you can use git with RStudio:
+          <ol>
+            <li>Open RStudio.</li>
+            <li>In the menu, click on "Tools > Global Options...".</li>
+            <li>Click on "Git/SVN".</li>
+            <li>Ensure the checkbox "Enable version control interface for RStudio projects" is selected.</li>
+            <li>Under "Git executable" click on "Browse".</li>
+            <li>Navigate to the location of the <code>git</code> executable. This is typically located in "/usr/bin".</li>
+            <li>Click "Open".</li>
+            <li>Click "OK".</li>
+          </ol>
+        </li>
+      </ol>
       </p>	
     </div>	
   </div>	
