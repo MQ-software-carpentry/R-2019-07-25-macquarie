@@ -477,7 +477,8 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
     <div class="col-md-4">	
       <h4 id="git-macosx">macOS</h4>	
       <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">Video Tutorial</a>	
-      <p>	
+      <ol>
+      <li>	
         <strong>For OS X 10.9 and higher</strong>, install Git for Mac	
         by downloading and running the most recent "mavericks" installer from	
         <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.	
@@ -489,11 +490,23 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
         <strong>For older versions of OS X (10.5-10.8)</strong> use the	
         most recent available installer labelled "snow-leopard"	
         <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.	
-      </p>	
+      </li>
+      <li>
+          To ensure that you can use git with RStudio:
+          <ol>
+            <li>Open RStudio.</li>
+            <li>In the menu, click on "Tools > Global Options...".</li>
+            <li>Click on "Git/SVN".</li>
+            <li>Ensure the checkbox "Enable version control interface for RStudio projects" is selected.</li>
+            <li>Under "Git executable" click on "Browse".</li>
+            <li>Navigate to the location of the <code>git</code> executable.</li>
+            <li>Click "Open".</li>
+            <li>Click "OK".</li>
+          </ol>
+      </ol>	
     </div>	
     <div class="col-md-4">	
-      <h4 id="git-linux">Linux</h4>	
-      <p>	
+      <h4 id="git-linux">Linux</h4>
       <ol>
         <li>
           If Git is not already available on your machine you can try to	
@@ -515,7 +528,6 @@ eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite r
           </ol>
         </li>
       </ol>
-      </p>	
     </div>	
   </div>	
 </div> {% comment %} End of 'Git' section. {% endcomment %}
