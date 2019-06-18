@@ -5,11 +5,11 @@ venue: "Macquarie University"        # brief name of host site without address (
 address: "Room 163, 14 Sir Christopher Ondaatje Ave (E7B), Macquarie University"  # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-33.774629,151.116119"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "28-29 Nov 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+latlng: "-33.774142,151.114828"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+humandate: "25-26 July 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-11-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-11-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2019-07-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-07-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Anikó B. Tóth", "Peter Humburg", "Tim Keighley"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Kate Dodds", "Belinda Fabian", "Victoria Graham"]  # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["aniko.toth@mq.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
