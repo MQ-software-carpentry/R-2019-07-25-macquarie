@@ -445,8 +445,8 @@ system below.
   </p>	
   <p>	
     You will need an account at <a href="https://github.com/">github.com</a>	
-    for parts of the Git lesson. Basic GitHub accounts are free. We encourage	
-    you to create a GitHub account if you don't have one already.	
+    for parts of this lesson. **Create a GitHub account if you don't have one already.**	Basic GitHub accounts are free.
+    You can also get a free GitHub Pro account for education. Use your university email address to create your GitHub account, then apply for an [education discount](https://education.github.com/benefits). 
     Please consider what personal information you'd like to reveal. For	
     example, you may want to review these	
     <a href="https://help.github.com/articles/keeping-your-email-address-private/">instructions	
