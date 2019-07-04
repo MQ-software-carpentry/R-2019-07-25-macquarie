@@ -14,7 +14,7 @@ instructor: ["Anikó B. Tóth", "Peter Humburg", "Tim Keighley"] # boxed, comma-
 helper: ["Kate Dodds", "Belinda Fabian", "Victoria Graham"]  # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["aniko.toth@mq.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  "http://bit.ly/MQ-DCR-2019-07"           # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: "52141965021"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "64222298624"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
